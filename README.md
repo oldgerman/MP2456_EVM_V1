@@ -1,10 +1,7 @@
 # MP2456 评估板 V1.0 
 
-<<<<<<< HEAD
 ![](https://github.com/oldgerman/MP2456_EVM_V1/blob/master/image/MP2456_EVM_V1_Module.JPG)
 
-=======
->>>>>>> 0c80365d483aad107d2e89edc6a8267fd4367dfd
 ## PCB
 
 ![](https://github.com/oldgerman/MP2456_EVM_V1/blob/master/image/MP2456_EVM_V1.jpg)
@@ -34,7 +31,3 @@
 ## 参数
 
 典型输出5V/0.5A, 建议输入电压8-50V，开关频率1.2MHz
-<<<<<<< HEAD
-
-=======
->>>>>>> 0c80365d483aad107d2e89edc6a8267fd4367dfd
